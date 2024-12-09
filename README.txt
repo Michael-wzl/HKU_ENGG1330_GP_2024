@@ -202,11 +202,11 @@ Link to the repository: N/A (to be updated after the grading is over)
 - University Number: 3036289169 Name: Wang Pengrun
 (Responsible for the player package and designing the ASCII arts)
 - University Number: 3036290742 Name: Zhao Wenqi
-(Responsible for the visilizations and the visibility algorithm, the background story, the ASCII animations, and coordinating the meetings)
+(Responsible for the visibility algorithm, the background story, the ASCII animations, and coordinating the meetings)
 
 #References:
-- The game inspired by the film The Maze Runner.
-- The title inspired by the novel Alice in Wonderland.
+- The game inspired by The Maze Runner.
+- The title inspired by Alice in Wonderland.
 - The maze generation algorithms are adapted from the following link: 
 https://blog.csdn.net/qq_41517936/article/details/107047349?spm=1001.2101.3001.6661.1&utm_medium=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-1-107047349-blog-88285926.235%5Ev43%5Epc_blog_bottom_relevance_base7&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-1-107047349-blog-88285926.235%5Ev43%5Epc_blog_bottom_relevance_base7&utm_relevant_index=1
 - The generative AI, Cursor, is used to help with the debugging. 
